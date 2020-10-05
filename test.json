@@ -1,0 +1,1125 @@
+{
+	"type": "IfcWall",
+	"globalId": "9808fd7f-dc48-478e-9217-628e833d4938",
+	"ownerHistory": {
+		"type": "ifcOwnerHistory",
+		"ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
+	},
+	"name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239",
+	"objectType": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:128555",
+	"objectPlacement": {
+		"type": "ifcLocalPlacement",
+		"placementRelTo": {
+			"type": "ifcLocalPlacement",
+			"placementRelTo": {
+				"type": "ifcLocalPlacement",
+				"placementRelTo": {
+					"type": "ifcLocalPlacement",
+					"relativePlacement": {
+						"type": "ifcAxis2Placement3D",
+						"location": {
+							"type": "ifcCartesianPoint",
+							"coordinates": [0.0, 0.0, 0.0]
+						}
+					}
+				},
+				"relativePlacement": {
+					"type": "ifcAxis2Placement3D",
+					"location": {
+						"type": "ifcCartesianPoint",
+						"coordinates": [0.0, 0.0, 0.0]
+					}
+				}
+			},
+			"relativePlacement": {
+				"type": "ifcAxis2Placement3D",
+				"location": {
+					"type": "ifcCartesianPoint",
+					"coordinates": [0.0, 0.0, 3.100000000000378]
+				}
+			}
+		},
+		"relativePlacement": {
+			"type": "ifcAxis2Placement3D",
+			"location": {
+				"type": "ifcCartesianPoint",
+				"coordinates": [4.4, -0.4170000000000139, -0.0]
+			},
+			"axis": {
+				"type": "ifcDirection",
+				"directionRatios": [0.0, 0.0, 1.0]
+			},
+			"refDirection": {
+				"type": "ifcDirection",
+				"directionRatios": [0.0, -1.0, 0.0]
+			}
+		}
+	},
+	"representation": {
+		"type": "ifcProductDefinitionShape",
+		"representations": [
+			{
+				"type": "ifcShapeRepresentation",
+				"contextOfItems": {
+					"type": "ifcGeometricRepresentationContext",
+					"ref": "d31fa9bc-187d-473e-979c-cef2a4575ed0"
+				},
+				"representationIdentifier": "Axis",
+				"representationType": "Curve2D",
+				"items": [
+					{
+						"type": "ifcPolyline",
+						"points": [
+							{
+								"type": "ifcCartesianPoint",
+								"coordinates": [0.0, 0.0]
+							},
+							{
+								"type": "ifcCartesianPoint",
+								"coordinates": [16.96599999999997, 0.0]
+							}
+						]
+					}
+				]
+			},
+			{
+				"type": "ifcShapeRepresentation",
+				"contextOfItems": {
+					"type": "ifcGeometricRepresentationContext",
+					"ref": "d31fa9bc-187d-473e-979c-cef2a4575ed0"
+				},
+				"representationIdentifier": "Body",
+				"representationType": "SurfaceModel",
+				"items": [
+					{
+						"type": "ifcFaceBasedSurfaceModel",
+						"fbsmFaces": [
+							{
+								"type": "ifcConnectedFaceSet",
+								"cfsFaces": [
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																-0.2749999999999996,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999993,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																-0.0,
+																-0.2749999999999996,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																-0.0,
+																-0.2749999999999996,
+																0.1000000000000011
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																-0.2749999999999996,
+																2.509999999999996
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																-0.2749999999999996,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999996,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																-0.2749999999999996,
+																2.900000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																0.2750000000000004,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999987,
+																0.2750000000000008,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999987,
+																0.2750000000000005,
+																2.900000000000013
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2750000000000007,
+																2.900000000000013
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																0.2750000000000004,
+																2.900000000000013
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																2.510000000000001
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																0.1000000000000049
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																0.2750000000000004,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2750000000000007,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.533,
+																0.2750000000000007,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2750000000000005,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2750000000000005,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999988,
+																0.2750000000000008,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [0.0, 0.2750000000000004, 0.0]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																-0.0,
+																-0.2749999999999996,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [0.0, 0.2750000000000004, 0.0]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999988,
+																0.2750000000000008,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2750000000000005,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2180000000000004,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2180000000000007,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2750000000000007,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																0.2750000000000004,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																-0.2749999999999996,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2179999999999998,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2179999999999994,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999993,
+																-0.2749999999999993,
+																0.0
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																-0.2749999999999996,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																0.2750000000000004,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999987,
+																0.2750000000000008,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999987,
+																0.2750000000000005,
+																2.900000000000013
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2750000000000007,
+																2.900000000000013
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																0.2750000000000004,
+																2.900000000000013
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.71699999999999,
+																-0.2749999999999996,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.248999999999996,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																-0.0,
+																-0.2749999999999996,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																-0.0,
+																-0.2749999999999996,
+																0.1000000000000011
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																-0.2749999999999996,
+																2.509999999999996
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																-0.2749999999999996,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																0.0,
+																0.2750000000000004,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [0.0, 0.2750000000000004, 0.0]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																-0.2749999999999993,
+																2.900000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																0.1000000000000049
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																2.510000000000001
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																16.96599999999997,
+																0.2750000000000008,
+																2.900000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2180000000000007,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2180000000000007,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2180000000000004,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2180000000000004,
+																2.595000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2180000000000007,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2180000000000004,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2750000000000005,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.533,
+																0.2750000000000007,
+																2.595000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2180000000000004,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2750000000000005,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2750000000000005,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.372999999999989,
+																0.2180000000000004,
+																0.0
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2180000000000007,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2180000000000007,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.533,
+																0.2750000000000007,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.53299999999999,
+																0.2750000000000007,
+																0.0
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2179999999999994,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2179999999999998,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2179999999999998,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2179999999999994,
+																0.0
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2179999999999994,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2179999999999998,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																2.595000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2179999999999994,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2749999999999995,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																6.432999999999995,
+																-0.2179999999999994,
+																2.595000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									},
+									{
+										"type": "ifcFace",
+										"bounds": [
+											{
+												"type": "ifcFaceOuterBound",
+												"bound": {
+													"type": "ifcPolyLoop",
+													"polygon": [
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2179999999999998,
+																2.595000000000012
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2179999999999998,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																0.0
+															]
+														},
+														{
+															"type": "ifcCartesianPoint",
+															"coordinates": [
+																10.59299999999999,
+																-0.2749999999999993,
+																2.595000000000012
+															]
+														}
+													]
+												},
+												"orientation": true
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"tag": "143239"
+}
