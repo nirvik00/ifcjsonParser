@@ -26,7 +26,6 @@ class ParserObj(object):
         str_json2 = json.dumps(self.matches, indent=2)
         self.append_file(str_json2)
 
-
     def test_parse_json(self):
         with open(self.file_name) as f:
             data = json.load(f)
@@ -45,21 +44,33 @@ class ParserObj(object):
                     t_parent = False
                     t_key=False
                     t_val=False
+                    matched = None
                     try:
                         if parent.lower() == ele.lower():
-                            t_parent, s = True, '\n\n\tmatch--> ' + ele + ',\t parent: ' + parent + '\n'
+                            t_parent, matched, s = True, parent.lower(), '\n\n\tmatch--> ' + ele + ',\t parent: ' + parent + '\n'
                         elif key.lower() == ele.lower():
-                            t_key, s = True,  '\n\n\tmatch--> ' + ele + ',\t key: ' + key + '\n'
+                            t_key, matched, s = True, key.lower(), '\n\n\tmatch--> ' + ele + ',\t key: ' + key + '\n'
                         elif value.lower() == ele.lower():
-                            t_val, s = True,  '\n\n\tmatch--> ' + ele + ',\t value: ' + value + '\n'
+                            t_val, matched, s = True, value.lower(), '\n\n\tmatch--> ' + ele + ',\t value: ' + value + '\n'
                         else: continue
                         print(s)
                     except:
                         pass
-
                     if t_parent or t_key or t_val:
-                        self.append_file(str2)
+                        strX= self.unpack_json(di, parent, matched)
+                        self.append_file(json.dumps(strX, indent=4))
                         self.matches[ele] = (self.matches[ele] + 1)
+
+    def unpack_json(self, di, parent, matched):
+        strX = {}
+        strX['type'] = matched
+        for ele2 in self.req_fields:
+            strX[ele2] = ""
+            for key, val in di.items():
+                if key.lower() == ele2.lower():
+                    strX[ele2] = val
+                    break
+        return strX
 
     def append_file(self, str):
         file1 = open(self.filename, "a")
