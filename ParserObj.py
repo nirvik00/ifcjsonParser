@@ -36,8 +36,8 @@ class ParserObj(object):
                 self.split_dict(key, value)
             elif isinstance(value, list):
                 self.split_list(key, value)
-                continue
             else:
+                # test pendants
                 for ele in self.req_types:
                     s = ""
                     t_parent = False
@@ -85,6 +85,7 @@ class ParserObj(object):
         for i in li:
             if isinstance(i, dict):
                 self.split_dict(parent, i)
+
 
 
     def summary_file(self):
