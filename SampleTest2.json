@@ -1,79 +1,632 @@
-{
-  "ifcdoor": 0
+search for={
+  "ifcDoor": 0,
+  "ifcproject": 0,
+  "ifcsite": 0,
+  "ifcbuilding": 0,
+  "ifcwall": 0,
+  "relatedElements": 0
 }
 
 
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcwall"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWall",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d4938"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWall",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d4938"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d568d"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d568d"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d56c9"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d56c9"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5611"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5611"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5659"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5659"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d548e"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d548e"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d54e7"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d54e7"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d55b5"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d55b5"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5512"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5512"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5275"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5275"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5246"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5246"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5393"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5393"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5330"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5330"
+}
+{
+    "type": "ifcSlab",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdbd1e"
+}
+{
+    "type": "ifcSlab",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdbd1e"
+}
+{
+    "type": "ifcSlab",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdbd56"
+}
+{
+    "type": "ifcSlab",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdbd56"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc858"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc858"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdcaa4"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdcaa4"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdccc1"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdccc1"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdcc4c"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdcc4c"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdcfa0"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdcfa0"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc09f"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc09f"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc056"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc056"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc11a"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc11a"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc3d4"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc3d4"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc370"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc370"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b8873"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b8873"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b97df"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b97df"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b96c4"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b96c4"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b9655"
+}
+{
+    "type": "ifcDoor",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b9655"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7300"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7300"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7361"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7361"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b72d9"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b72d9"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b720f"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b720f"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7236"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7236"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7160"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7160"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b70a9"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b70a9"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b700f"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b700f"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444fe8"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444fe8"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444e01"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444e01"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444d36"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444d36"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444cb4"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444cb4"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444cde"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444cde"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444b93"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444b93"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444a9a"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444a9a"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444af9"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d8444af9"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d844491c"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d844491c"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d84448e3"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6f010293-ddb7-4fe4-8ffd-c144d84448e3"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc9850b2"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc9850b2"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985144"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985144"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98514e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98514e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985156"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985156"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98515e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98515e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985166"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985166"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98516e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98516e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985170"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985170"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "27ece05c-f06c-4dd2-9ccd-945e52597b0a"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "27ece05c-f06c-4dd2-9ccd-945e52597b0a"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "27ece05c-f06c-4dd2-9ccd-945e52597fa3"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "27ece05c-f06c-4dd2-9ccd-945e52597fa3"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533e77"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533e77"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533fec"
+}
+{
+    "type": "ifcDoor",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533fec"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e65338fa"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e65338fa"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533926"
+}
+{
+    "type": "ifcDoor",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533926"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f2f4"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f2f4"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f31b"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f31b"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f37b"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f37b"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f37a"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f37a"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527dc"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527dc"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527dd"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527dd"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527d2"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527d2"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527d3"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e1527d3"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152773"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152773"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152770"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152770"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152771"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152771"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152776"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "e21226ef-c42d-4907-9a6f-46644e152776"
+}
+{
+    "type": "ifcwall",
+    "globalid": "9808fd7f-dc48-478e-9217-628e833d4938",
+    "ownerHistory": {
+        "type": "ifcOwnerHistory",
+        "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
+    },
+    "name": "Basic Wall:Party Wall - CMU Residential Unit Dimising Wall:143239"
 }
 {
     "type": "ifcdoor",
@@ -82,10 +635,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150378"
 }
 {
     "type": "ifcdoor",
@@ -94,10 +644,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:150478"
 }
 {
     "type": "ifcdoor",
@@ -106,10 +653,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159734"
 }
 {
     "type": "ifcdoor",
@@ -118,10 +662,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:159834"
 }
 {
     "type": "ifcdoor",
@@ -130,10 +671,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160065"
 }
 {
     "type": "ifcdoor",
@@ -142,10 +680,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0864 x 2032mm:0864 x 2032mm:160208"
 }
 {
     "type": "ifcdoor",
@@ -154,10 +689,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:203720"
 }
 {
     "type": "ifcdoor",
@@ -166,64 +698,441 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:204034"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7df1"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7df1"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7d12"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7d12"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7d42"
 }
 {
-    "type": "ifcdoor",
-    "globalid": "",
-    "ownerHistory": "",
-    "name": "",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7d42"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7af9"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7af9"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7be7"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7be7"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7938"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d7938"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d795d"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d795d"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d46ec"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d46ec"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d46d1"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d46d1"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d471d"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d471d"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d44b8"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d44b8"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d441c"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d441c"
+}
+{
+    "type": "ifcSlab",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d410f"
+}
+{
+    "type": "ifcSlab",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d410f"
+}
+{
+    "type": "ifcSlab",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d49bd"
+}
+{
+    "type": "ifcSlab",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d49bd"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d574f"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d574f"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5239"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "9808fd7f-dc48-478e-9217-628e833d5239"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb1c2"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb1c2"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb2de"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb2de"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb41a"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb41a"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb448"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb448"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb57b"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb57b"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb6d5"
+}
+{
+    "type": "ifcWindow",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdb6d5"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc223"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc223"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc24f"
+}
+{
+    "type": "ifcDoor",
+    "ref": "6b61ce71-1a7a-473c-8f87-4262e0bdc24f"
+}
+{
+    "type": "ifcStair",
+    "ref": "3ab8ee1d-07ad-41b9-8f24-a55884e7e601"
+}
+{
+    "type": "ifcStair",
+    "ref": "3ab8ee1d-07ad-41b9-8f24-a55884e7e601"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7ef5"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7ef5"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7ca4"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7ca4"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7b5b"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7b5b"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7b78"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7b78"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7a99"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7a99"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7a31"
+}
+{
+    "type": "ifcSlab",
+    "ref": "982f59b0-f2e1-485f-8ce1-c9f6117b7a31"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "7606d7eb-508f-40ce-a522-9b526ddc7201"
+}
+{
+    "type": "ifcDoor",
+    "ref": "7606d7eb-508f-40ce-a522-9b526ddc7201"
+}
+{
+    "type": "ifcdoor"
+}
+{
+    "type": "ifcDoor",
+    "ref": "7606d7eb-508f-40ce-a522-9b526ddc728b"
+}
+{
+    "type": "ifcDoor",
+    "ref": "7606d7eb-508f-40ce-a522-9b526ddc728b"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985748"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985748"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985003"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985003"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98500b"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98500b"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98501e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc98501e"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985031"
+}
+{
+    "type": "ifcCovering",
+    "ref": "e586c31c-dfb6-463e-aee7-a2dffc985031"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412d8c1"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412d8c1"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412df9e"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412df9e"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412dcef"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412dcef"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412d365"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412d365"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412d386"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "2c391822-07f8-4a22-86a8-a1e57412d386"
+}
+{
+    "type": "ifcStair",
+    "ref": "81be7c96-ce56-447e-9d93-021422f83127"
+}
+{
+    "type": "ifcStair",
+    "ref": "81be7c96-ce56-447e-9d93-021422f83127"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533a28"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533a28"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533ae9"
+}
+{
+    "type": "ifcWallStandardCase",
+    "ref": "64b7f7d3-8cfc-4277-ba33-8de2e6533ae9"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53ebc8"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53ebc8"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f220"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f220"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f379"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f379"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f378"
+}
+{
+    "type": "ifcBeam",
+    "ref": "98d604b7-4c6f-4ae8-b5f3-0187bb53f378"
+}
+{
+    "type": "ifcSlab",
+    "ref": "4c8d2570-3244-4e75-8237-a4372a40e82b"
+}
+{
+    "type": "ifcSlab",
+    "ref": "4c8d2570-3244-4e75-8237-a4372a40e82b"
+}
+{
+    "type": "ifcSlab",
+    "ref": "4c8d2570-3244-4e75-8237-a4372a40e878"
+}
+{
+    "type": "ifcSlab",
+    "ref": "4c8d2570-3244-4e75-8237-a4372a40e878"
 }
 {
     "type": "ifcdoor",
@@ -232,10 +1141,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146596"
 }
 {
     "type": "ifcdoor",
@@ -244,10 +1150,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:1250mm x 2010mm:1250mm x 2010mm:146678"
 }
 {
     "type": "ifcdoor",
@@ -256,10 +1159,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150173"
 }
 {
     "type": "ifcdoor",
@@ -268,10 +1168,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Flush:0762 x 2032mm:0762 x 2032mm:150257"
 }
 {
     "type": "ifcdoor",
@@ -280,10 +1177,7 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
+    "name": "M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171853"
 }
 {
     "type": "ifcdoor",
@@ -292,11 +1186,5 @@
         "type": "ifcOwnerHistory",
         "ref": "bd91d1c9-26a0-43d0-ae2f-6f5e72d0e2ee"
     },
-    "name": "M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975",
-    "description": "",
-    "relatedelements": "",
-    "isdecomposedby": ""
-}
-{
-  "ifcdoor": 28
+    "name": "M_Single-Glass 1:0813 x 2420mm:0813 x 2420mm:171975"
 }

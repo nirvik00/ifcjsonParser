@@ -7,7 +7,9 @@ def f8():
     req_types += ["ifcwall", "relatedElements"]
     req_types2=["ifcdoor"]
     req_fields = ["globalid", "ownerHistory", "name", "description", "relatedelements", "isdecomposedby"]
-    p = ParserObj(pp_data, req_types2, req_fields)
+
+    # error in duplex_data.json
+    p = ParserObj(pp_data, req_types, req_fields)
 
 if __name__ == '__main__':
     start_time = time.time()

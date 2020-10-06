@@ -17,14 +17,13 @@ class ParserObj(object):
             self.matches[ele] = 0
         str_json = json.dumps(self.matches, indent=2)
         file1 = open(self.filename, "w")
-        file1.write(str_json)
+        file1.writelines(["search for=",str_json])
         file1.write("\n\n\n")
         file1.close()
         self.test_parse_json()
         for ele in self.req_types:
             print(ele, ";", self.matches[ele])
-        str_json2 = json.dumps(self.matches, indent=2)
-        self.append_file(str_json2)
+
 
     def test_parse_json(self):
         with open(self.file_name) as f:
@@ -32,12 +31,12 @@ class ParserObj(object):
         self.split_dict("root", data)
 
     def split_dict(self, parent, di):
-        str2 = json.dumps(di, indent=4)
         for key, value in di.items():
             if isinstance(value, dict):
                 self.split_dict(key, value)
             elif isinstance(value, list):
                 self.split_list(key, value)
+                continue
             else:
                 for ele in self.req_types:
                     s = ""
@@ -56,16 +55,20 @@ class ParserObj(object):
                         print(s)
                     except:
                         pass
-                    if t_parent or t_key or t_val:
-                        strX= self.unpack_json(di, parent, matched)
-                        self.append_file(json.dumps(strX, indent=4))
+                    if t_parent:
+                        self.append_file(json.dumps(di, indent=4))
                         self.matches[ele] = (self.matches[ele] + 1)
+                    elif t_key or t_val:
+                        strX = self.unpack_json_val(di, parent, matched)
+                        if len(strX) > 0:
+                            self.append_file(json.dumps(strX, indent=4))
+                            self.matches[ele] = (self.matches[ele] + 1)
 
-    def unpack_json(self, di, parent, matched):
+
+    def unpack_json_val(self, di, parent, matched):
         strX = {}
         strX['type'] = matched
         for ele2 in self.req_fields:
-            strX[ele2] = ""
             for key, val in di.items():
                 if key.lower() == ele2.lower():
                     strX[ele2] = val
@@ -82,3 +85,10 @@ class ParserObj(object):
         for i in li:
             if isinstance(i, dict):
                 self.split_dict(parent, i)
+
+
+    def summary_file(self):
+        file1=open("summary.json")
+        str_json = json.dumps(self.matches, indent=2)
+        file1.writelines(str_json)
+        file1.close()
